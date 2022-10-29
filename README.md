@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moedeera
-- 👀 I’m interested in becoming a full stack web developer
-- 🌱 I’m well versed in HTML, CSS , JavaScript, NodeJS, Express and WordPress.
+- 👀 I’m a self taught Web developer
+- 🌱 I’m involved mainly the MERN stack and WordPress.
 - 💞️ I’m looking to collaborate on web design projects
 - 📫 How to reach me : just message me!
 
